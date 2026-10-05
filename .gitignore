@@ -1,0 +1,16 @@
+*.pyc
+__pycache__/
+.env
+.env.local
+*.db
+*.db-journal
+/backend/venv/
+/frontend/node_modules/
+/frontend/dist/
+.DS_Store
+.vscode/
+*.log
+sessions.db
+/backend/.pytest_cache/
+/tmp/
+.superpowers/
